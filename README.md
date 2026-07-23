@@ -1,4 +1,4 @@
-# Claude Auto Sender
+# Enter Presser (Auto Sender)
 
 Belirlediğiniz süre dolduğunda otomatik olarak **Enter** tuşuna basan bir Windows masaüstü aracı. Çalıştığı sürece bilgisayarın ekranının kararmasını veya uyku moduna geçmesini de engeller.
 
